@@ -33,7 +33,7 @@ public class Person1 {
 	  //Person 1 put your implementation here
 
 		char c1 = input.charAt(0);
-		char c2 = input.chartAt(1);
+		char c2 = input.charAt(1);
 
 		String ret;
 
