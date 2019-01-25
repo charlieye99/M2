@@ -9,9 +9,9 @@ dependencies {
 jar {
     manifest {
         attributes(
-            "Implementation-Title' : 'Team23 Milestone 2",
-            "Implementation-Version' : version 1",
-            "Main-Class": "edu.gatech.oad.antlab.pkg1.AntLabMain",
-                   "Class-Path": "../../lib/resources.jar")
+            'Implementation-Title' : 'Team23 Milestone 2',
+            'Implementation-Version' : 'version 1',
+            'Main-Class': 'edu.gatech.oad.antlab.pkg1.AntLabMain',
+            'Class-Path': '../../lib/resources.jar')
     }
 }

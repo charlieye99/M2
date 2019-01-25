@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: Team23 Milestone 2
+Implementation-Version: version 1
+Main-Class: edu.gatech.oad.antlab.pkg1.AntLabMain
+Class-Path: ../../lib/resources.jar
+
